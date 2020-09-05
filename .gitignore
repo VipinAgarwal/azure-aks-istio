@@ -1,5 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
+**/.kube/*
+**/.istio/*
 
 # .tfstate files
 *.tfstate
